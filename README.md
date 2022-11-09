@@ -1,2 +1,2 @@
-just intilizing the repo
+Simple Shell Project
 
